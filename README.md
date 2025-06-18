@@ -65,12 +65,12 @@ This task demonstrated how decision trees can be effectively used for classifica
 
 *OUTPUT*:
 
-![Image](https://github.com/user-attachments/assets/d5e87526-8222-4427-b3cc-39210665e9ba)
+![Image](https://github.com/user-attachments/assets/04fba0ec-e8ff-477d-a019-e2803688a699)
 
-![Image](https://github.com/user-attachments/assets/929278d4-83f1-4643-9e73-a1764a1383e0)
+![Image](https://github.com/user-attachments/assets/f3535c7f-4ba9-47e8-a1cf-62566f522053)
 
-![Image](https://github.com/user-attachments/assets/27940959-24a5-41e0-8be9-3f3d61346c89)
+![Image](https://github.com/user-attachments/assets/b0f3f706-b7b9-4dd8-98fe-a67f3b8052f3)
 
-![Image](https://github.com/user-attachments/assets/3ec5b019-a8a8-4751-888d-45c1be73d126)
+![Image](https://github.com/user-attachments/assets/a6dd0aa3-7278-43fd-ad23-cc52b5cd7195)
 
-![Image](https://github.com/user-attachments/assets/78c3f260-28d1-4ae6-acdc-87c113e7e38e)
+![Image](https://github.com/user-attachments/assets/8d36d462-ba4a-44c4-acc4-e15dc6ed7c5d)
