@@ -63,3 +63,14 @@ This classification task has real-world applications such as:
 *CONCLUSION* :
 This task demonstrated how decision trees can be effectively used for classification problems, especially with structured datasets. By using the Zoo dataset, I was able to implement a clean, interpretable model and visualize its performance. Jupyter Notebook provided an ideal environment for this hands-on experience, and scikit-learn made model building intuitive and efficient
 
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/d5e87526-8222-4427-b3cc-39210665e9ba)
+
+![Image](https://github.com/user-attachments/assets/929278d4-83f1-4643-9e73-a1764a1383e0)
+
+![Image](https://github.com/user-attachments/assets/27940959-24a5-41e0-8be9-3f3d61346c89)
+
+![Image](https://github.com/user-attachments/assets/3ec5b019-a8a8-4751-888d-45c1be73d126)
+
+![Image](https://github.com/user-attachments/assets/78c3f260-28d1-4ae6-acdc-87c113e7e38e)
