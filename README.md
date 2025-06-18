@@ -14,7 +14,7 @@
 
 *DESCRIPTION*:
 
-*TASK 1: DECISION TREE IMPLEMENTATION*
+*TASK 1: DECISION TREE IMPLEMENTATION*:
 Task 1 involved implementing a Decision Tree  to perform classification on a chosen dataset. The purpose of this task was to understand how decision trees work, how to preprocess and train a model, and how to evaluate its performance. The task required building and visualizing a decision tree model using the scikit-learn library in Python. I selected the Zoo Classification Dataset from Kaggle for this implementation, as it provides a clear, structured classification problem that is suitable for beginners and educational purposes.
 
 *DATASET DESCRIPTION* :
